@@ -1,2 +1,2 @@
 # Mentally-Sound
-spotify api
+mentally sound version 2
